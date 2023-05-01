@@ -1,0 +1,20 @@
+.row{
+    display: flex;
+    justify-content: center;
+    margin-top: 84px;
+}
+
+.text {
+    padding-top: 137px;
+    
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
